@@ -1,3 +1,3 @@
 # Tableau de bord - Santé Québec
 
-## Ceci est un tableau de bord interactif pour visualiser les données de la santé publique au Québec (les vraies données).
+## Ceci est un tableau de bord interactif pour visualiser les données sur le réseau de santé au Québec (les vraies données).
